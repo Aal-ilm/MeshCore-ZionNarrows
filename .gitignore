@@ -1,0 +1,8 @@
+*.gdb/
+*.aprx
+.backups/
+.ipynb_checkpoints/
+ImportLog/
+Index/
+GpMessages/
+RasterFunctionTemplates/
