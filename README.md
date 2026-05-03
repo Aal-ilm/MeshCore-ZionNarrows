@@ -59,7 +59,7 @@ The analysis is built as a fully automated Model Builder workflow in ArcGIS Pro.
 
 <div align="center">
 
-![Full Model Builder Pipeline](screenshots/model_builder_full_pipeline.png)
+![Full Model Builder Pipeline](screenshots/model_builder_full_pipeline.svg)
 *Complete automated pipeline from raw DEM tiles to MeshCore node placement*
 
 </div>
