@@ -446,36 +446,7 @@ Exported as GeoJSON → converted via JSON to Features tool → stored as `Narro
 
 ---
 
-## 📁 Project Structure
 
-```
-MeshCore-ZionNarrows/
-├── README.md
-├── scripts/
-│   ├── meshcore_relay_selector_v2.py   # Greedy ridge relay optimizer
-│   └── meshcore_relay_selector_v1.py   # Original version (reference)
-├── exports/
-│   ├── RelayNodes_GPS.csv              # Community deployment coordinates
-│   ├── RelayNodes.kmz                  # Google Earth deployment guide
-│   ├── Viewshed.kmz                    # Signal coverage for Google Earth
-│   └── NarrowsRiver.kmz               # Canyon corridor for Google Earth
-├── data/
-│   └── dem_urls.txt                    # Direct download URLs for all DEM tiles
-├── docs/
-│   └── MeshCore_ZionNarrows_Reference.docx
-└── screenshots/
-    ├── banner_3d_terrain.png
-    ├── study_area_overview.png
-    ├── model_builder_full_pipeline.png
-    ├── step1_mosaic_model_builder.png
-    ├── step2_clean_terrain_output.png
-    ├── step4_flow_direction.png
-    ├── step5_flow_accumulation.png
-    ├── step9_meshcore_nodes_placed.png
-    ├── step11_line_of_sight.png
-    ├── step12_viewshed_canyon.png
-    └── step13_radio_spheres_3d.png
-```
 
 > **Note:** The geodatabase (`.gdb`), ArcGIS project (`.aprx`), and raw DEM tiles are not included due to file size. All DEM tiles are publicly available from USGS National Map using the URLs in `data/dem_urls.txt`.
 
