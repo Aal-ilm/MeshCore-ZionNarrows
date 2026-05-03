@@ -387,6 +387,13 @@ A Python script runs a **greedy coverage algorithm** to select the minimum set o
 3. Verifies each floor node is actually within the relay radius before marking covered
 
 ---
+## Google Earth View
+
+| Link |
+|------|
+|https://earth.google.com/earth/d/13FQFbLSi6yTJlvBkNQdZlMSdfn8PNvZ7?usp=sharing |
+
+---
 
 ## 📍 GPS Deployment Coordinates
 
