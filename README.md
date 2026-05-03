@@ -7,7 +7,7 @@
 **Optimal MeshCore ridge relay node placement for emergency communication in Zion Narrows**
 using 1-meter LiDAR DEMs, hydrological analysis, ridge inversion, viewshed modeling, and greedy coverage optimization in ArcGIS Pro
 
----
+--- 
 
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-0079C1?style=for-the-badge&logo=esri&logoColor=white)
 ![Model Builder](https://img.shields.io/badge/Model_Builder-Automated_Pipeline-00A550?style=for-the-badge)
