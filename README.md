@@ -526,9 +526,9 @@ LOS analysis (Step 11) showed canyon walls block nearly every signal path betwee
 
 ## 🎓 Academic Context
 
-**Course:** GIS 205 — AI and Deep Learning in GIS  
+**Course:** GIS 205 — 3D GIS 
 **Instructor:** Prof. Walker  
-**Assignment:** Final Project — 3D GIS Analysis with ArcGIS Pro
+**Assignment:** Final Project — Meshcore 3D Node relay analysis
 
 ---
 
